@@ -1,0 +1,2 @@
+# Absensi
+Latihan membuat repo
